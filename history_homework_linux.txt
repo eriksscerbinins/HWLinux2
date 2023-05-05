@@ -1,0 +1,23 @@
+   0 whoami
+   1 pwd
+   2 cd..
+   3 cd ..
+   4 ls
+   5 cd /home
+   6 -p /home/user/start
+   7 mkdir -p /home/user/start
+   8 ls
+   9 tree
+  10 echo "Start" >> /home/user/start/1.txt
+  11 ls
+  12 tree
+  13 date >> /home/user/start/1.txt
+  14 ls
+  15 tree
+  16 mkdir -p /opt/task
+  17 cd /home/user/start/1.txt /opt/task/start.txt
+  18 clean 
+  19 ls
+  20 tree
+  21 cd
+  22 history >history_homework_linux.txt
